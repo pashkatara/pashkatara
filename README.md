@@ -15,22 +15,6 @@
 
 ---
 
-### 📌 Репозитории и проекты
-
-<p align="center">
-  <a href="https://github.com/pashkatara/esp32-commander">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pashkatara&repo=esp32-commander&theme=tokyonight&show_owner=false" alt="ESP32 Commander" />
-  </a>
-  <a href="https://github.com/pashkatara/esphome-neva-mt324">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pashkatara&repo=esphome-neva-mt324&theme=tokyonight&show_owner=false" alt="ESPHome Neva MT324" />
-  </a>
-</p>
-
-- ⚡ **[ESP32 Commander](https://github.com/pashkatara/esp32-commander)** — GUI утилита для Windows 11: стирание flash, сохранение дампов, прошивка и Serial-терминал.
-- 📊 **[ESPHome Neva MT 324](https://github.com/pashkatara/esphome-neva-mt324)** — Проводная интеграция трёхфазных электросчётчиков серии «Нева МТ» по интерфейсу RS-485 в Home Assistant.
-
----
-
 ### 🛠 Стек и технологии
 
 <p align="left">
@@ -45,5 +29,5 @@
 
 ### 📬 Контакты
 
-- **Email:** [onepashka25@gmail.com](mailto:onepashka25@gmail.com)
-- **GitHub:** [@pashkatara](https://github.com/pashkatara)
+- ✉️ **Email:** [onepashka25@gmail.com](mailto:onepashka25@gmail.com)
+- 🐙 **GitHub:** [@pashkatara](https://github.com/pashkatara)
